@@ -1,0 +1,4 @@
+# Never commit credentials
+arduino_secrets.h
+secrets.h
+*.env
